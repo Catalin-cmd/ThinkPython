@@ -19,7 +19,7 @@ blocks = int(input("Enter the number of blocks: "))
 height = 0
 counter = 0
 while blocks> 0:
-    counter+=1 #this will count how many blocks we used
+    counter+=1 #this will count how many blocks we've used
     blocks-=counter #this will count how many blocks we have left
     height+=1 #this is the actual height of the pyramid
 if blocks<0: #if the row is not completed the height will not be added
