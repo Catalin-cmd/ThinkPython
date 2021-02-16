@@ -1,4 +1,4 @@
-# Sorteaza o lista data fara .sorted()
+# Sorteaza o lista data fara .sort()
 
 lista = [123,1243,3453,45776,2342,456456,32423,534634,4523,634,2356,345,3456,436,45645,6456,456,456,45,645,6345,34534,534545,7645767]
 invers = True
